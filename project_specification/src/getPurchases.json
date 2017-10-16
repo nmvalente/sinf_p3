@@ -1,0 +1,30 @@
+[
+  {
+    "ID": "{616997945}",
+    "DocumentDate": "2017-06-10T14:50:00",
+    "DueDate": "2014-08-12T12:31:22",
+    "ReceptionDate": "2017-10-01T00:47:53",
+    "DocumentType": "XPTO",
+    "SupplierId": "S123",
+    "SupplierName": "DemoSinf",
+
+    "Product": {
+      "Id": "A0001",
+      "Brand": "INTEL",
+      "Model": "",
+      "Description": "Pentium D925 Dual Core",
+      "FamilyId": "H01",
+      "FamilyDescription": "Computer Hardware",
+      "SubFamilyId": "HP001",
+      "SubFamilyDescription": "Processor"
+    },
+
+    "Value": {
+      "Value":833.33,
+      "Currency": "EUR"
+    },
+    "VAT": 0.23
+  }
+]
+
+

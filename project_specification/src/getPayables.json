@@ -1,0 +1,16 @@
+
+[
+  {
+    "DocumentType":"VFA", 
+    "DocumentDate":"2017-02-01T00:00:00", 
+    "DueDate":"2017-04-31T00:00:00", 
+    "State":"PEN",
+    "Entity":"SSTV",
+    "EntityType":"S",
+    
+    "PendingValue": {
+      "Value":-1124.91,
+      "Currency":"EUR" 
+    }
+  }
+]

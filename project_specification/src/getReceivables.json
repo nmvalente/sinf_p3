@@ -1,0 +1,16 @@
+
+[
+  {
+    "DocumentType":"NC", 
+    "DocumentDate":"2017-02-01T00:00:00", 
+    "DueDate":"2017-04-31T00:00:00", 
+    "State":"PEN",
+    "Entity":"BLP",
+    "EntityType":"C",
+    
+    "PendingValue": {
+      "Value":-134.89,
+      "Currency":"EUR" 
+    }
+  }
+]

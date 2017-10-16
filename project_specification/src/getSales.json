@@ -1,0 +1,27 @@
+[
+  {
+    "ID":"{KJD198324U239}", 
+    "DocumentDate":"2017-02-01T00:00:00", 
+    "DueDate":"2017-04-31T00:00:00", 
+    "ReceptionDate":"2017-01-03T00:00:00", 
+    "LoadingDate":"0001-01-01T00:00:00", 
+    "DocumentType":"PR",
+    "ClientId":"BLP", 
+    "ClientName":"BrunoLopesPereira", 
+    "Product": {
+      "Id":"NV10239872386",
+      "Brand":"NVIDIA",
+      "Model":"NV950XL", 
+      "Description":"NVIDIA_950_XL", 
+      "FamilyId":"GR01", 
+      "FamilyDescription":"GraphicsCard"
+    }, 
+
+    "Value": {
+      "Value":228.39,
+      "Currency":"EUR" 
+    },
+      
+    "VAT":0.23
+  }
+]
