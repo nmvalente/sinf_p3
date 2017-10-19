@@ -8,11 +8,11 @@ import {
 
 import { DashboardRoutingModule } from './dashboard-routing.module';
 import { DashboardComponent } from './dashboard.component';
-import {
+/*import {
     TimelineComponent,
     NotificationComponent,
     ChatComponent
-} from './components';
+} from './components';*/
 import { StatModule } from '../../shared';
 
 @NgModule({
@@ -21,13 +21,13 @@ import { StatModule } from '../../shared';
         NgbCarouselModule.forRoot(),
         NgbAlertModule.forRoot(),
         DashboardRoutingModule,
-        StatModule,
+        //StatModule,
     ],
     declarations: [
         DashboardComponent,
-        TimelineComponent,
+       /* TimelineComponent,
         NotificationComponent,
-        ChatComponent
+        ChatComponent*/
     ]
 })
 export class DashboardModule { }
